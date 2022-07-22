@@ -1,6 +1,2 @@
 - [ ]  A message from above
 - [ ]  a second message
-- [ ] three abc
-- [ ] a brand new todo 
-- [ ] a new new todo
-- [ ] 5 todos
