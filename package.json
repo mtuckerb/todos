@@ -1,0 +1,17 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "bun": "^0.0.12",
+    "chokidar": "^3.5.3",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "google-apis": "^1.0.0",
+    "googleapis": "^105.0.0",
+    "hound": "^1.0.5",
+    "redis": "^4.2.0"
+  }
+}
