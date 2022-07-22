@@ -1,7 +1,7 @@
 const cache = require('./todo_cache')
 const chokidar = require('chokidar');
 const apple = require('./apple_todos')
-const watcher = chokidar.watch('/Users/mtuckerb/', { 
+const watcher = chokidar.watch(process.env.MARKDOWN_WATCH_DIR, { 
   recursive: true, 
   persistent: true,
   atomic: true,

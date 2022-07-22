@@ -16,5 +16,4 @@ This little app requires a bit of setup, but for my use case, it is well worth i
 4. `cd todos && node watch.js`
 
 # Configuration
-You will need to change the watched dir in watch.js (I'll make that configurable in .env soon)
-
+You will need to create .env file and add `MARKDOWN_WATCH_DIR=` and whatever tree you want to monitor
